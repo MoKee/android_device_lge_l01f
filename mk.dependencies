@@ -6,5 +6,9 @@
  {
    "repository": "android_kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974"
+ },
+ {
+   "repository": "android_vendor_lge_l01f",
+   "target_path": "vendor/lge/l01f"
  }
 ]

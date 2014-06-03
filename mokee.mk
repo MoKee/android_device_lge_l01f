@@ -2,15 +2,15 @@
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common MK stuff.
+$(call inherit-product, vendor/mk/config/common_full_phone.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/lge/l01f/l01f.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := l01f
-PRODUCT_NAME := cm_l01f
+PRODUCT_NAME := mk_l01f
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := L-01F
 PRODUCT_MANUFACTURER := LGE
