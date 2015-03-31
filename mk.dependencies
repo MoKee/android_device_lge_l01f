@@ -4,6 +4,10 @@
    "target_path": "vendor/lge/l01f"
  },
  {
+   "repository": "android_vendor_lge_d802",
+   "target_path": "vendor/lge/d802"
+ },
+ {
    "repository": "android_device_lge_g2-common",
    "target_path": "device/lge/g2-common"
  },
