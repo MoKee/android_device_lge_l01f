@@ -1,7 +1,7 @@
 [
  {
    "repository": "android_vendor_lge_l01f",
-   "target_path": "vendor/lge/d802"
+   "target_path": "vendor/lge/l01f"
  },
  {
    "repository": "android_device_lge_g2-common",
